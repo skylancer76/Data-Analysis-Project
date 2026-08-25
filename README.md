@@ -1,11 +1,9 @@
-# Jar-Growth-Intern-Assignment
-
-> [!NOTE]
-> This project has been developed as part of the assignment for the recruitment process at **Jar** for Growth Intern Role.
-
 #  Sales Analysis using Python
 
 This project analyzes sales data using Python to identify business trends and category-wise performance. Multiple Excel datasets are merged, cleaned, and analyzed to generate meaningful insights through data visualization.
+
+> [!NOTE]
+> This project has been developed as part of the assignment for the recruitment process at **Jar** for Growth Intern Role.
 
 ## Features
 
